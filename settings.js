@@ -4,7 +4,7 @@
 //Instagram: xenon_btz
 //Telegram: t.me/Haryanvi_69
 //GitHub: @TeamGodLike
-//WhatsApp: +447520651745
+//WhatsApp: +6282132860847
 //want more free bot scripts? subscribe to my youtube channel: https://youtube.com/@DGXeon
 
 const fs = require('fs')
@@ -17,18 +17,18 @@ global.location = "India, Mizoram, Aizawl" //ur location
 
 //new
 global.botname = 'Cheems Bot MD V13' //ur bot name
-global.ownernumber = '447520651745' //ur owner number
+global.ownernumber = '6282132860847' //ur owner number
 global.ownername = 'Xenon' //ur owner name
 global.websitex = "https://youtu.be/"
-global.wagc = "https://api.whatsapp.com/send?phone=+447520651745"
+global.wagc = "https://api.whatsapp.com/send?phone=+6282132860847"
 global.themeemoji = '🪀'
 global.wm = "Xeon Bot Inc."
 global.botscript = 'https://github.com/TeamGodLike2/cheems13' //script link
 global.packname = "Sticker By Xenon"
-global.author = "Xeon\n\n+447520651745"
-global.creator = "447520651745@s.whatsapp.net"
+global.author = "Xeon\n\n+6282132860847"
+global.creator = "6282132860847@s.whatsapp.net"
 global.xprefix = '$'
-global.premium = ["447520651745"] // Premium User
+global.premium = ["6282132860847"] // Premium User
 global.hituet = 0
 
 //bot sett
