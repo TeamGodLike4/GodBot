@@ -27,7 +27,7 @@ global.botscript = 'https://github.com/TeamGodLike2/cheems13' //script link
 global.packname = "Sticker By Xenon"
 global.author = "Xeon\n\n+6282132860847"
 global.creator = "6282132860847@s.whatsapp.net"
-global.xprefix = '$'
+global.xprefix = '#'
 global.premium = ["6282132860847"] // Premium User
 global.hituet = 0
 
