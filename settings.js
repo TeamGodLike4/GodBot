@@ -17,7 +17,7 @@ global.location = "India, Mizoram, Aizawl" //ur location
 
 //new
 global.botname = 'Cheems Bot MD V13' //ur bot name
-global.ownernumber = '6282132860847' //ur owner number
+global.ownernumber = '94743747913' //ur owner number
 global.ownername = 'Xenon' //ur owner name
 global.websitex = "https://youtu.be/"
 global.wagc = "https://api.whatsapp.com/send?phone=+6282132860847"
@@ -26,9 +26,9 @@ global.wm = "Xeon Bot Inc."
 global.botscript = 'https://github.com/TeamGodLike2/cheems13' //script link
 global.packname = "Sticker By Xenon"
 global.author = "Xeon\n\n+6282132860847"
-global.creator = "6282132860847@s.whatsapp.net"
-global.xprefix = '#'
-global.premium = ["6282132860847"] // Premium User
+global.creator = "94743747913@s.whatsapp.net"
+global.xprefix = '.'
+global.premium = ["94743747913"] // Premium User
 global.hituet = 0
 
 //bot sett
