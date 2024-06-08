@@ -14,11 +14,15 @@
   },
     "scripts": {
         "start": "node index.js"
+        "preinstall": "npm install -g npm@10.8.1",
+        "start": "node server.js"
+
     },
     "author": "DGXeon",
     "license": "MIT",
     "dependencies": {
 "@whiskeysockets/baileys": "github:nstar-y/Bail",
+        "@nstar/baileys": "^6.7.4"
         "@adiwajshing/keyed-db": "^0.2.4",
         "@ffmpeg-installer/ffmpeg": "^1.1.0",
         "@hapi/boom": "^10.0.1",
@@ -42,7 +46,7 @@
         "human-readable": "^0.2.1",
         "imgur": "2.3.0",
         "javascript-obfuscator": "^4.0.0",
-        "jimp": "^0.16.13",
+         "jimp": "^0.22.12",
         "jsdom": "^22.1.0",
         "lodash": "^4.17.21",
         "mal-scraper": "^2.11.4",
