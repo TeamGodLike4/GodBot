@@ -4,6 +4,7 @@
     "description": "Whatsapp Bot By DGXeon",
     "main": "index.js",
     "type": "commonjs",
+    "node": "20.x"
     "directories": {
         "lib": "lib",
         "src": "src",
